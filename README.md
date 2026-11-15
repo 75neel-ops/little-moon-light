@@ -1,3 +1,5 @@
+<p align="center"><img src="app-icon-192.png" alt="Little Moon Light crescent moon icon" width="96"></p>
+
 # Little Moon Light — free CBSE learning app
 
 **Little Moon Light** is the free version of Little Moon for CBSE learners in Classes 1–8. It includes key words, fresh multiple-choice practice with explanations, custom-mark timed question papers, PDF downloads, and fun facts.
